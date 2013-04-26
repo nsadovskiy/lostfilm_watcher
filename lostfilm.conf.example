@@ -1,0 +1,10 @@
+uid 123456
+pass abcdef
+usess abcdef
+target_path /tmp/
+
+torrent Following hd noweb
+torrent Game.of.Thrones hd noweb
+torrent Anger.Management hd noweb
+torrent Spartacus hd noweb
+# torrent Grimm sd noweb
